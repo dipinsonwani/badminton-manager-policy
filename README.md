@@ -1,0 +1,1 @@
+# badminton-manager-policy
